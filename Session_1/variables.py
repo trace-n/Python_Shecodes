@@ -30,12 +30,27 @@ distance = "5000"
 # print("Hello")
 # input("Hello")
 
-dog_name = input("What's your dog's name?")
-print(f"nice to meet you {dog_name}")
-                 
-# birth_year = input("What year were you born?")
-# print(f"You are {2023-int}")
+# dog_name = input("What's your dog's name?")
+# print(f"nice to meet you {dog_name}")
 
+# Q1 Number addition
+# first_num = input("Enter a number:")
+# second_num = input("Enter another number:")
+# print(f"the sum of your numbers is {int(first_num)+int(second_num)}")
 
+# Q2 Number multiplication
+# print(f"the multiplication of your numbers is {int(first_num)*int(second_num)}")
 
+# Q3 distance km to m and cms
+# distance = input("How many kilometres")
+# print(f"{float(distance)}km = {int(distance)*1000}m")
+# print(f"{float(distance)}km = {int(distance)*100000}cm")
+
+# Q4 Name and height cm 
+name = input("What's your name?")
+height = input("How tall are you (cms)?")
+print(f"{name} is {height}cms tall.")
+
+# Q5 
+# input is an expression 
 
