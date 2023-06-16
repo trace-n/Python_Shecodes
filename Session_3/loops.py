@@ -129,6 +129,17 @@ letters = ['a','b','c']
 #     # answer = int(number) * count
 #     print(f"{number} * {count+1} = {int(number)*(count+1)}")
 
+
+# ----------------
+# Q1 - Loops
+# ----------------
+
+number = input("Enter a number:")
+for count in range(1,11):
+    # answer = int(number) * count
+    print(f"{number} * {count} = {int(number)*(count)}")
+
+
 # ----------------
 # Q2 - Loops
 # ----------------
